@@ -1,0 +1,6 @@
+Detection Of Fake Profiles on Social Media
+This Project collects the information from the user in the form of a form on the website and then it is tested to be fake or genuine. 
+This is my mini Project at my college.
+There is a scope for this project to become a real time application for detection of fake profiles. 
+I tried Feed Forward Neural network and obtained more accuay. I have tried three techniques to classify the data as fake or genuine. 
+The three techniques being Support Vector Machine, Randome forest, Feed Forward Neural networks.
