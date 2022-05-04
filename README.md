@@ -1,15 +1,10 @@
-#Detection Of Fake Profiles on Social Media
-#This Project collects the information from the user in the form of a form on the website and then it is tested to be fake or genuine. 
-#This is my mini Project at my college.
 <!DOCTYPE html>
 <html>
 <head>
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-
-}
+  font-family: Arial, Helvetica, sans-serif;}
 
 .hero-image {
   background-image:"sockpuppets-feat.jpg";
@@ -166,15 +161,6 @@ span.psw {
 </div>
   </form>
 </div></div>
-
-
-
-
-<script>
-
-
-  
-</script>
   </div>
 </div>
 </body>
