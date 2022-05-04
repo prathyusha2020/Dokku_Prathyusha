@@ -14,5 +14,4 @@ background-color: #cccccc;}
 <center><<h1 style="font-size:50px", color:"brown">Detection Of Fake Profile</h1>
     <h3>Enter the account details of the Account and find out whether the account you want to follow or connect is Geniune or Fake!</h3>
 	
-	h3><a href= "https://forms.gle/fmB3Qo3BNZTTYY2C9" > Try it Now!!!</a><H3></center>
-</body>
+	h3><a href= "https://forms.gle/fmB3Qo3BNZTTYY2C9" > Try it Now!!!</a><H3>
