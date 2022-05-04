@@ -234,4 +234,4 @@ print(classification_report(y_test, y_pred, target_names=['Fake','Genuine']))
 
 plot_roc_curve(y_test, y_pred)
 
-
+#This is an analysis done for svm.
