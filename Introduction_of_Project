@@ -4,3 +4,4 @@ This is my mini Project at my college.
 There is a scope for this project to become a real time application for detection of fake profiles. 
 I tried Feed Forward Neural network and obtained more accuay. I have tried three techniques to classify the data as fake or genuine. 
 The three techniques being Support Vector Machine, Randome forest, Feed Forward Neural networks.
+I am still working on this Project.
