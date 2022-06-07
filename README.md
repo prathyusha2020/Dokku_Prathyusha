@@ -1,10 +1,7 @@
 <html>
 <head>
 <style>
-body {
-margin: 0;
-font-family: Arial, Helvetica, sans-serif;
-background-color: #cccccc;}
+body {margin: 0; font-family: Arial; background-color: #cccccc;}
 </style>
 </head>
 <body>
