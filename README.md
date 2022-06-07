@@ -1,10 +1,9 @@
 <html>
 <head>
 <style>
-body {margin: 0; font-family: Arial; background-color: #cccccc;}
 </style>
 </head>
-<body>
+<body style="background-color:powderblue;">
 <center><h1>Detection Of Fake Profile</h1>
     <h3>Enter the account details of the Account and find out whether the account you want to follow or connect is Geniune or Fake!</h3>
 	
